@@ -16,4 +16,9 @@ Libraries required to run this Project:
 * sqlalchemy
 * pandas_profiling
 
-Architecture
+## Architecture
+![alt text](https://github.com/NikhithaReddy0510/SQL_Fundamentals/blob/main/Example.png)
+
+Step1 : Recommend [following the steps](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/) to Import CSV file into PostgreSQL Table 
+
+
