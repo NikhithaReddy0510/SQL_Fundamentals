@@ -19,6 +19,10 @@ Libraries required to run this Project:
 ## Architecture
 ![alt text](https://github.com/NikhithaReddy0510/SQL_Fundamentals/blob/main/Example.png)
 
-Step1 : Recommend [following the steps](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/) to Import CSV file into PostgreSQL Table 
+Source File available [here](https://www.kaggle.com/knightking007/aadhar)
+
+Step1 : Recommend [steps to follow](https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/) to Import CSV file into PostgreSQL Table 
+
+
 
 
